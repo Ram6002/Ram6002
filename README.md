@@ -1,7 +1,18 @@
-### Hi there 👋
+### Hi there, I am Ram Naresh 👋
+
+:rocket: Front End Developer [@mayadata-io](https://github.com/mayadata-io)
+
+:india: Lives in Bengaluru 
+
+### Find me elsewhere :earth_asia:
+
+:rocket: [Blog](https://letsaskhow.com/)
+
+:briefcase: [LinkedIn](https://www.linkedin.com/in/ram29894/)
+
 
 <!--
-**Ram6002/Ram6002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IsAmrish/isamrish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
