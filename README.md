@@ -1,6 +1,5 @@
 ### Hi there, I am Ram Naresh 👋
 
-:rocket: Front End Developer [@mayadata-io](https://github.com/mayadata-io)
 
 :india: Lives in Bengaluru 
 
