@@ -1,7 +1,7 @@
 ### Hi there, I am Ram Naresh 👋
 
 
-:india: Lives in Bengaluru 
+ Lives in Bengaluru 
 
 ### Find me elsewhere :earth_asia:
 
